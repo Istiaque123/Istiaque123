@@ -74,22 +74,22 @@ I'm a final-year Computer Science and Engineering student at R.P. Shaha Universi
       <br>VS Code
     </td>
     <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+      <a href="#TS">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-icon-download-in-svg-png-gif-file-formats--programming-language-logo-logos-pack-icons-1174965.png?f=webp&w=512" width="48" height="48" alt="TS" />
       </a>
-      <br>Html5
+      <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#css3">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/48px-CSS3_logo.svg.png" width="48" height="48" alt="CSS3" />
+        <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="48" height="48" alt="CSS3" />
       </a>
-      <br>CSS3
+      <br>PostGre
     </td>
     <td align="center" width="96">
-      <a href="#bootstrap">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
+      <a href="#NestJs">
+        <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Bootstrap
+      <br>NestJs
     </td>
     <td align="center" width="96">
       <a href="#js">
@@ -98,10 +98,10 @@ I'm a final-year Computer Science and Engineering student at R.P. Shaha Universi
       <br>Javascript
     </td>
     <td align="center" width="96">
-      <a href="#tailwindcss">
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" height="48" alt="TailwindCSS" />
+      <a href="#NodeJs">
+        <img src="https://nodejs.org/static/logos/nodejsStackedLight.svg" width="48" height="48" alt="NodeJs" />
       </a>
-      <br>TailwindCSS
+      <br>NodeJs
     </td>
 </tr>
 
